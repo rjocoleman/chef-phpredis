@@ -1,3 +1,4 @@
+name             "phpredis"
 maintainer       "Botond Dani"
 maintainer_email "me@danibotond.ro"
 license          "All rights reserved"
